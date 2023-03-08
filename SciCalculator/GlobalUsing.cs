@@ -1,9 +1,5 @@
 ﻿global using SciCalculator.Views;
-
-public partial class CalculatorPage : ContentPage
-{
-    public CalculatorPage()
-    {
-        
-    }
-}
+global using System.ComponentModel;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using Android.Icu.Text;
+global using CommunityToolkit.Mvvm.Input;
